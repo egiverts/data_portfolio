@@ -9,10 +9,10 @@ information such as tweet text and user location within a CSV file.
 import tweepy
 import pandas as pd
 
-consumer_key = '8wUJBK1HDSCl7QEelgfctdB0A'
-consumer_secret = 'TPlOBhSW8kwYbr8iHgW7sAPKyloSAWiXoB2FqYOhCgYvhlKFns'
-access_token = '2891397858-tARckCXsqVbdLJh0oiPjK8fE0SiLnMeLO45eClA'
-access_token_secret = 'VUsBAtsX9rE5dXbV3xjWjaJz5tXTK2pog0E8BJB2lZTJM'
+consumer_key = # add personal consumer key
+consumer_secret = # add personal consumer secret
+access_token = # add personal access token 
+access_token_secret = # add personal access token secret
 
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
